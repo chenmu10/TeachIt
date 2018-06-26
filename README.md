@@ -9,12 +9,12 @@ Teachers Marketplace.
 
 ## Built With
 
-* Vue.js
-* Vuex, vue-router
-* materialize css
+* Vue.js with Vuex, vue-router
+* Materialize CSS UI Framework
 * [Maps API](https://cloud.google.com/maps-platform/) - The Maps JavaScript API lets you customize maps with your own content and imagery for display on web pages and mobile devices. 
-* Cloudinary
+* Cloudinary Image Hosting Service
 * Web Socket
+* Authentication 
 
 ## Authors
 
